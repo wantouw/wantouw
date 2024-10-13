@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=F7F7F7&width=450&lines=Hi+there!+I'm+Ryan+Ray+Wantouw+Oei+%F0%9F%8D%80" alt="Typing SVG" /></a>
-
-###
-
-<div width="100%"><img width="80%" src="https://i.pinimg.com/originals/da/6c/0a/da6c0a28ca221107c53627d8373b36a5.gif"></img></div>
-
-###
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=F7F7F7&width=450&lines=Hi+there!+I'm+Ryan+Ray+Wantouw+Oei+%F0%9F%8D%80" alt="Typing SVG" /></a>
+  
+  <div width="100%">
+    <img width="100%" src="https://i.pinimg.com/originals/da/6c/0a/da6c0a28ca221107c53627d8373b36a5.gif" alt="GIF"/>
+  </div>
+</div>
 
 <h2 align="left">My stats</h2>
 
